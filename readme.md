@@ -1,5 +1,5 @@
 ## CLONE THE PROJECT AND RUN IT IN TERMINAL USING THE FOLLOWING COMMANDS
-- yarn add
+- yarn add .
 - node app.js
 
 This is a program that automates sending email to users using a specified period of time and uses node-cron module
